@@ -136,7 +136,9 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* Changed class selector to ID selector */
+
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -163,18 +165,20 @@ p {
     color: #ffffff;
 }
 
-/* grouped selectors together */
+/* grouped selectors together 
+   Changed class selector to ID selector */
 
-.search-engine-optimization img,
+#search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img        {
     
     max-height: 200px;
 }
 
-/* grouped selectors together */
+/* grouped selectors together
+   Changed class selector to ID selector */
 
-.search-engine-optimization h2,
+#search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2          {    
     
