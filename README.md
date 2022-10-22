@@ -24,7 +24,7 @@ Examples of semantic elements: <header> and <section>.
 
 I learned how important it is to use semantic elements in HTML to improve accessibility for the user and readability for the developer.
 
-### Contact Info
+## Contact Info
 
 If you have any questions please contact me at:
 
