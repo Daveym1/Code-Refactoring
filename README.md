@@ -12,13 +12,17 @@ One of the most common tasks for front-end and junior developers is to take exis
 
 ![](assets/images/01-html-css-git-challenge-demo.png)
 
+If you'd like to see the site in action, please check it out here: [Live site](https://daveym1.github.io/Code-Refactoring/)
+
+
+
 ## What I Did
 
 For this challenge, I edited the given HTML and CSS files swapping out non-semantic elements for semantic ones. I consolidated selectors in the CSS file so that there was no repetition of code and made sure that everything was in a logical order.
 
-Examples of non-semantic elements: <div> and <span>
+Examples of non-semantic elements: div and span
 
-Examples of semantic elements: <header> and <section>.
+Examples of semantic elements: header and section.
 
 ## What I Learned
 
